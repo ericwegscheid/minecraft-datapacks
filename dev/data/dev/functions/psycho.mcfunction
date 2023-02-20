@@ -1,20 +1,43 @@
-summon minecraft:creeper ~ ~1 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~2 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~3 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~4 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~5 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~6 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~7 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~8 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~9 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~10 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~11 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~12 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~13 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~14 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~15 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~16 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~17 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~18 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~19 ~ {Fuse:100,ignited:1}
-summon minecraft:creeper ~ ~10 ~ {Fuse:100,ignited:1}
+summon minecraft:creeper ~-5 ~ ~-5
+summon minecraft:creeper ~-4 ~ ~-5
+summon minecraft:creeper ~-3 ~ ~-5
+summon minecraft:creeper ~-2 ~ ~-5
+summon minecraft:creeper ~-1 ~ ~-5
+summon minecraft:creeper ~0 ~ ~-5
+summon minecraft:creeper ~1 ~ ~-5
+summon minecraft:creeper ~2 ~ ~-5
+summon minecraft:creeper ~3 ~ ~-5
+summon minecraft:creeper ~4 ~ ~-5
+summon minecraft:creeper ~5 ~ ~-7
+# summon minecraft:creeper ~-4 ~ ~-7
+# summon minecraft:creeper ~-3 ~ ~-7
+# summon minecraft:creeper ~-2 ~ ~-7
+# summon minecraft:creeper ~-1 ~ ~-7
+# summon minecraft:creeper ~0 ~ ~-7
+# summon minecraft:creeper ~1 ~ ~-7
+# summon minecraft:creeper ~2 ~ ~-7
+# summon minecraft:creeper ~3 ~ ~-7
+# summon minecraft:creeper ~4 ~ ~-7
+# summon minecraft:creeper ~5 ~ ~-7
+# summon minecraft:creeper ~-5 ~ ~-3
+# summon minecraft:creeper ~-4 ~ ~-3
+# summon minecraft:creeper ~-3 ~ ~-3
+# summon minecraft:creeper ~-2 ~ ~-3
+# summon minecraft:creeper ~-1 ~ ~-3
+# summon minecraft:creeper ~0 ~ ~-3
+# summon minecraft:creeper ~1 ~ ~-3
+# summon minecraft:creeper ~2 ~ ~-3
+# summon minecraft:creeper ~3 ~ ~-3
+# summon minecraft:creeper ~4 ~ ~-3
+# summon minecraft:creeper ~5 ~ ~-3
+
+# summon minecraft:creeper ~-5 ~ ~-5
+# summon minecraft:piglin_brute ~-4 ~ ~-5
+# summon minecraft:piglin ~-3 ~ ~-5
+# summon minecraft:creeper ~-2 ~ ~-5
+# summon minecraft:piglin ~-1 ~ ~-5
+# summon minecraft:zombie ~0 ~ ~-5
+# summon minecraft:creeper ~1 ~ ~-5
+# summon minecraft:piglin ~2 ~ ~-5
+# summon minecraft:spider ~3 ~ ~-5
+# summon minecraft:creeper ~4 ~ ~-5
