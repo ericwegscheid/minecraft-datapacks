@@ -1,1 +1,1 @@
-give @p stick{Enchantments:[{id:knockback,lvl:270}]} 1
+give @p stick{Enchantments:[{id:knockback,lvl:99:}]} 1
